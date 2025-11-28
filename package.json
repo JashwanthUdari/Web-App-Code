@@ -1,27 +1,25 @@
 ﻿{
-    "name":  "web-app-code",
-    "version":  "1.0.0",
-    "description":  "",
-    "main":  "index.js",
-    "scripts": {
-  "start": "node server.js",
-  "test": "echo \"No tests yet\" && exit 0"
-};
-    "repository":  {
-                       "type":  "git",
-                       "url":  "git+https://github.com/JashwanthUdari/Web-App-Code.git"
-                   },
-    "keywords":  [
-
-                 ],
-    "author":  "",
-    "license":  "ISC",
-    "type":  "commonjs",
-    "bugs":  {
-                 "url":  "https://github.com/JashwanthUdari/Web-App-Code/issues"
-             },
-    "homepage":  "http://localhost:8080/my-app",
-    "dependencies":  {
-                         "express":  "^5.1.0"
-                     }
+  "name": "web-app-code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JashwanthUdari/Web-App-Code.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/JashwanthUdari/Web-App-Code/issues"
+  },
+  "homepage": "http://localhost:8080/my-app",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
