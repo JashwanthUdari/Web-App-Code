@@ -3,9 +3,10 @@
     "version":  "1.0.0",
     "description":  "",
     "main":  "index.js",
-    "scripts":  {
-                    "test":  "echo \"Error: no test specified\" \u0026\u0026 exit 1"
-                },
+    "scripts": {
+  "start": "node server.js",
+  "test": "echo \"No tests yet\" && exit 0"
+}
     "repository":  {
                        "type":  "git",
                        "url":  "git+https://github.com/JashwanthUdari/Web-App-Code.git"
