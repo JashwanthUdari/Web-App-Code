@@ -6,6 +6,7 @@
   "scripts": {
     "start": "node server.js",
     "test": "echo \"No tests yet\" && exit 0"
+     "build": "echo \"Nothing to build\""
   },
   "repository": {
     "type": "git",
