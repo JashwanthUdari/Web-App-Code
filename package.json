@@ -6,7 +6,7 @@
     "scripts": {
   "start": "node server.js",
   "test": "echo \"No tests yet\" && exit 0"
-}
+};
     "repository":  {
                        "type":  "git",
                        "url":  "git+https://github.com/JashwanthUdari/Web-App-Code.git"
